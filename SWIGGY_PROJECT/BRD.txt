@@ -1,0 +1,26 @@
+Problem Statement:
+
+BRD (Business Requirements Document): KPI's
+
+Total Sales (₹): Overall Revenue generated from food orders.
+Average Rating: Customer satisfaction level across all restaurants
+Average Order Value (₹): Revenue per order
+Rating Count: Total number of customers reviews
+Count of Dish Name: Total Dish count available in dataset
+Total Orders: Number of food orders received
+
+
+---------------------------------------------------------------------
+
+Problem Statement:
+
+BRD: Charts
+
+Monthly sales trend: Shows how total sales fluctuate month by month
+Daily Sales Trend: Highlights order and revenue variations across days of the week
+Total sales by food type(Veg and Non-veg): Compares revenue contribution by cuisine type
+Total sales by state (Map Visiualization): State wise revenue
+Quarterly performance summary: combines sales, ratings, orders by quarter
+Top 5 cities by sales: Identifies leading cities contributing to the most revenue
+Weekly trend analysis:Monitors weekly fluctuations in sales to identify consistency or peak periods.
+
